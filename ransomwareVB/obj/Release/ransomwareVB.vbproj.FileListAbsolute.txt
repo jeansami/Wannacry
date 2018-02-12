@@ -1,0 +1,11 @@
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Release\ransomwareVB.exe.config
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Release\ransomwareVB.exe
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Release\ransomwareVB.pdb
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Release\ransomwareVB.xml
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.Form1.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.Resources.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.vbproj.GenerateResource.Cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.vbproj.CoreCompileInputs.cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.exe
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.xml
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.pdb

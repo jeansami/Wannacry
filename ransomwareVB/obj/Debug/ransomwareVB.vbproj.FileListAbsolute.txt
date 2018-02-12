@@ -1,0 +1,12 @@
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Debug\ransomwareVB.exe.config
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Debug\ransomwareVB.exe
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Debug\ransomwareVB.pdb
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\bin\Debug\ransomwareVB.xml
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.vbprojResolveAssemblyReference.cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.Form1.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.Resources.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.vbproj.GenerateResource.Cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.vbproj.CoreCompileInputs.cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.exe
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.xml
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.pdb
