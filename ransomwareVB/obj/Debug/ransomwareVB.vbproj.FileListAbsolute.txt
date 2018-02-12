@@ -10,3 +10,5 @@ C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.vbp
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.exe
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.xml
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.pdb
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.UserControl1.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Debug\ransomwareVB.Wannadecryptor.resources

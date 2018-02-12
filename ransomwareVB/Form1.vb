@@ -43,4 +43,8 @@ Public Class Form1
         End While
 
     End Sub
+
+    Private Sub TableLayoutPanel3_Paint(sender As Object, e As PaintEventArgs) Handles TableLayoutPanel3.Paint
+
+    End Sub
 End Class
