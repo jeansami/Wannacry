@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Wannadecryptor
     Inherits System.Windows.Forms.Form
 
     'Form remplace la méthode Dispose pour nettoyer la liste des composants.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,20 +20,20 @@ Partial Class Wannadecryptor
     'REMARQUE : la procédure suivante est requise par le Concepteur Windows Form
     'Elle peut être modifiée à l'aide du Concepteur Windows Form.  
     'Ne la modifiez pas à l'aide de l'éditeur de code.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.UserControl11 = New ransomwareVB.UserControl1()
+        Me.uc_wannacry = New ransomwareVB.UserControl1()
         Me.SuspendLayout()
         '
-        'UserControl11
+        'uc_wannacry
         '
-        Me.UserControl11.AutoSize = True
-        Me.UserControl11.BackColor = System.Drawing.Color.DarkRed
-        Me.UserControl11.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.UserControl11.Location = New System.Drawing.Point(0, 0)
-        Me.UserControl11.Name = "UserControl11"
-        Me.UserControl11.Size = New System.Drawing.Size(444, 393)
-        Me.UserControl11.TabIndex = 0
+        Me.uc_wannacry.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.uc_wannacry.AutoSize = True
+        Me.uc_wannacry.BackColor = System.Drawing.Color.DarkRed
+        Me.uc_wannacry.Location = New System.Drawing.Point(0, 0)
+        Me.uc_wannacry.Name = "uc_wannacry"
+        Me.uc_wannacry.Size = New System.Drawing.Size(779, 593)
+        Me.uc_wannacry.TabIndex = 0
         '
         'Wannadecryptor
         '
@@ -41,16 +41,18 @@ Partial Class Wannadecryptor
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSize = True
         Me.AutoValidate = System.Windows.Forms.AutoValidate.Disable
-        Me.ClientSize = New System.Drawing.Size(444, 393)
+        Me.BackColor = System.Drawing.Color.Maroon
+        Me.ClientSize = New System.Drawing.Size(779, 586)
         Me.ControlBox = False
-        Me.Controls.Add(Me.UserControl11)
+        Me.Controls.Add(Me.uc_wannacry)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.Name = "Wannadecryptor"
         Me.Text = "Wannadecryptor"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
 
-    Friend WithEvents UserControl11 As UserControl1
+    Friend WithEvents uc_wannacry As UserControl1
 End Class
