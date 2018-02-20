@@ -9,3 +9,7 @@ C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.v
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.exe
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.xml
 C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.pdb
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.vbprojResolveAssemblyReference.cache
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.UserControl1.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.UserControl2.resources
+C:\Users\jeany\source\repos\ransomwareVB\ransomwareVB\obj\Release\ransomwareVB.Wannadecryptor.resources
